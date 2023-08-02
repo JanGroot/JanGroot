@@ -8,7 +8,7 @@ val JanGroot = human {
     }
 
     links {
-        twitter = "@76jan"
+        x = "@76jan"
     }
 }
 ```
