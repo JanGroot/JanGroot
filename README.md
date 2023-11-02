@@ -6,9 +6,5 @@ val JanGroot = human {
         company = Sytac
         role = Developer    
     }
-
-    links {
-        x = "@76jan"
-    }
 }
 ```
